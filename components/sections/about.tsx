@@ -6,7 +6,7 @@ export function About() {
     <section id="about" className="container py-16 md:py-24">
       <div className="grid gap-8 lg:grid-cols-2 lg:gap-12">
         <div className="relative aspect-[4/3] overflow-hidden rounded-lg lg:aspect-auto lg:h-[400px]">
-          <Image src="/italian-grandmother-cooking-pasta.jpg" alt="Our story" fill className="object-cover" />
+          <Image src="/images/originals/chef.jpg" alt="Our story" fill className="object-cover" />
         </div>
 
         <div className="flex flex-col justify-center space-y-4">

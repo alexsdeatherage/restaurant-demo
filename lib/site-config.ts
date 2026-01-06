@@ -105,14 +105,14 @@ export const siteConfig: SiteConfig = {
   ordering: { label: "Order on DoorDash", href: "https://doordash.com" },
   reservations: { label: "Reserve on OpenTable", href: "https://opentable.com" },
   images: {
-    hero: "/cozy-italian-restaurant.png",
+    hero: "/images/originals/storefront-view.jpg",
     gallery: [
-      "/homemade-pasta.png",
-      "/fresh-pizza-margherita.jpg",
-      "/italian-restaurant-ambiance.jpg",
-      "/classic-tiramisu.png",
-      "/italian-family-dining.jpg",
-      "/fresh-ingredients-basil-tomatoes.jpg",
+      "/images/originals/outdoor-view.jpg",
+      "/images/originals/pasta-penne.jpg",
+      "/images/originals/pizza-oven.jpg",
+      "/images/originals/pizza-pie.jpg",
+      "/images/originals/spaghetti-mushroom.jpg",
+      "/images/originals/spaghetti.jpg",
     ],
   },
   testimonials: [
