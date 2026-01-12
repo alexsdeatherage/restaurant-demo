@@ -9,10 +9,9 @@ export function InfoBar() {
       <div className="container space-y-8">
         <div className="space-y-2 text-center">
           <h2 className="text-balance text-3xl font-bold tracking-tight sm:text-4xl">Visit Us</h2>
-          <p className="text-pretty text-muted-foreground">We're here to serve you</p>
         </div>
 
-        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
           {/* Hours */}
           <Card>
             <CardHeader>
@@ -68,39 +67,6 @@ export function InfoBar() {
             </CardContent>
           </Card>
 
-          {/* Order Online */}
-          <Card>
-            <CardHeader>
-              <CardTitle className="flex items-center gap-2 text-lg">
-                <ShoppingBag className="h-5 w-5 text-accent" />
-                Order Online
-              </CardTitle>
-            </CardHeader>
-            <CardContent className="space-y-4">
-              <p className="text-sm text-muted-foreground">Enjoy our food from the comfort of your home</p>
-              {siteConfig.ordering && (
-                <Button variant="outline" size="sm" className="w-full bg-transparent" asChild>
-                  <a href={siteConfig.ordering.href} target="_blank" rel="noopener noreferrer">
-                    {siteConfig.ordering.label}
-                  </a>
-                </Button>
-              )}
-            </CardContent>
-          </Card>
-        </div>
-
-        {/* Map Embed */}
-        <div className="aspect-video w-full overflow-hidden rounded-lg">
-          <iframe
-            src={``}
-            width="100%"
-            height="100%"
-            style={{ border: 0 }}
-            allowFullScreen
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Restaurant location"
-          />
         </div>
       </div>
     </section>

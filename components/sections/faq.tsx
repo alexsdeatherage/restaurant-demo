@@ -8,7 +8,6 @@ export function FAQ() {
         <div className="mx-auto max-w-3xl space-y-8">
           <div className="space-y-2 text-center">
             <h2 className="text-balance text-3xl font-bold tracking-tight sm:text-4xl">Frequently Asked Questions</h2>
-            <p className="text-pretty text-muted-foreground">Everything you need to know</p>
           </div>
 
           <Accordion type="single" collapsible className="w-full">

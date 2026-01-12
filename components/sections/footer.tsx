@@ -74,7 +74,6 @@ export function Footer() {
           <p>
             © {new Date().getFullYear()} {siteConfig.restaurant.name}. All rights reserved.
           </p>
-          <p>Made with ❤️ for our community</p>
         </div>
       </div>
     </footer>

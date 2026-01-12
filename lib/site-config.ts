@@ -102,8 +102,6 @@ export const siteConfig: SiteConfig = {
     { label: "Facebook", href: "https://facebook.com/nonnaskitchen" },
     { label: "Yelp", href: "https://yelp.com/biz/nonnaskitchen" },
   ],
-  ordering: { label: "Order on DoorDash", href: "https://doordash.com" },
-  reservations: { label: "Reserve on OpenTable", href: "https://opentable.com" },
   images: {
     hero: "/images/originals/storefront-view.jpg",
     gallery: [
@@ -135,7 +133,7 @@ export const siteConfig: SiteConfig = {
   faqs: [
     {
       q: "Do you take reservations?",
-      a: "Yes! We accept reservations for parties of 4 or more. You can book through OpenTable or call us directly. Walk-ins are always welcome for smaller groups.",
+      a: "Yes! We accept reservations for parties of 4 or more. You can call us directly to book a table. Walk-ins are always welcome for smaller groups.",
     },
     {
       q: "Do you offer vegetarian or gluten-free options?",
