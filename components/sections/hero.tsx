@@ -26,14 +26,6 @@ export function Hero() {
               <a href={siteConfig.ctas.secondary.href}>{siteConfig.ctas.secondary.label}</a>
             </Button>
           </div>
-
-          <div className="flex flex-wrap gap-2">
-            {siteConfig.features.slice(0, 3).map((feature, idx) => (
-              <Badge key={idx} variant="secondary" className="px-3 py-1">
-                {feature.title}
-              </Badge>
-            ))}
-          </div>
         </div>
 
         <div className="relative aspect-[4/3] overflow-hidden rounded-lg lg:aspect-auto lg:h-[500px]">
