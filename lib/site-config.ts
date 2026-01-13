@@ -141,7 +141,7 @@ export const siteConfig: SiteConfig = {
     },
     {
       q: "Is there parking available?",
-      a: "We have a small parking lot behind the restaurant with 15 spaces. Street parking is also available on Main Street and surrounding blocks.",
+      a: "We have plenty of parking in front of the restaurant, so you don't need to worry about finding parking",
     },
     {
       q: "Do you offer catering services?",
