@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Restaurant Demo
+
+This is a demo project of a restaurant landing page for restaurant owners.
+
+![]Animation.gif
+
+## Description
+
+The intended audience for this are mom and pop shops that want to either get a landing page up, or replace their existing website with something more modern.
 
 ## Getting Started
 
-First, run the development server:
+### Dependencies
 
-```bash
+* Node.js is required to install packages via NPM
+
+### Installing
+
+* Use NPM to install the packages from package.json
+* You can modify the contents to adjust information as needed inside of the lib folder
+
+### Executing program
+
+```
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Help
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+Currently, all of the images are refered from public/images/originals, so if you want to switch out images inside of site-config.ts, keep the file path on mind.
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Authors
 
-## Learn More
+Alex Deatherage
+[@Deatherage48959](https://x.com/Deatherage48959)
 
-To learn more about Next.js, take a look at the following resources:
+## Version History
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* 0.1
+    * Initial Release
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## License
 
-## Deploy on Vercel
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Acknowledgments
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Thank you to Leon Noel and my buds from OSU for encoraging me to keep going with software engineering.
