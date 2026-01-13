@@ -29,7 +29,7 @@ npm run dev
 ## Help
 
 ```
-Currently, all of the images are refered from public/images/originals, so if you want to switch out images inside of site-config.ts, keep the file path on mind.
+Currently, all of the images are refered from public/images/originals, so if you want to switch out images inside of site-config.ts, you will need to adjust the file paths.
 ```
 
 ## Authors
