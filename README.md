@@ -1,6 +1,6 @@
 # Restaurant Demo
 
-This is a demo project of a restaurant landing page for restaurant owners.
+This is a demo project of a restaurant landing page for restaurant owners. Link: https://restaurant-demo-eta.vercel.app/
 
 ![Animation](https://github.com/alexsdeatherage/restaurant-demo/blob/main/Animation.gif)
 
