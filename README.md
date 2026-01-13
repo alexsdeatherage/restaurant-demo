@@ -2,7 +2,7 @@
 
 This is a demo project of a restaurant landing page for restaurant owners.
 
-![]Animation.gif
+![Animation](https://github.com/alexsdeatherage/restaurant-demo/blob/main/Animation.gif)
 
 ## Description
 
@@ -48,4 +48,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
-Thank you to Leon Noel and my buds from OSU for encoraging me to keep going with software engineering.
+Thank you to Leon Noel and my buds from OSU for encouraging me to keep going with software engineering.
