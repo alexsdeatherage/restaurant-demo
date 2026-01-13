@@ -40,7 +40,7 @@ export const menuData: MenuCategory[] = [
     label: "Main Courses",
     items: [
       {
-        name: "Lasagna della Nonna",
+        name: "Lasagna della Peppino",
         desc: "Our signature recipe with layers of pasta, meat sauce, béchamel, and cheese",
         price: "$18",
       },

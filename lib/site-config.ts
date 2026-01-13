@@ -77,14 +77,14 @@ export const siteConfig: SiteConfig = {
     surfaceColor: "bg-amber-50",
   },
   restaurant: {
-    name: "Nonna's Kitchen",
-    tagline: "Authentic Family Recipes Since 1985",
+    name: "Peppino's Kitchen",
+    tagline: "Authentic Family Recipes Since 2005",
     shortDescription:
       "Experience the warmth of home-cooked Italian cuisine made with love, fresh ingredients, and recipes passed down through generations.",
   },
   contact: {
     phone: "(555) 123-4567",
-    email: "hello@nonnaskitchen.com",
+    email: "hello@peppinoskitchen.com",
     address: "123 Main Street, Downtown, CA 90210",
     googleMapsUrl: "https://maps.google.com/?q=123+Main+Street+Downtown+CA+90210",
   },
@@ -98,9 +98,9 @@ export const siteConfig: SiteConfig = {
     secondary: { label: "Get Directions", href: "#location" },
   },
   socials: [
-    { label: "Instagram", href: "https://instagram.com/nonnaskitchen" },
-    { label: "Facebook", href: "https://facebook.com/nonnaskitchen" },
-    { label: "Yelp", href: "https://yelp.com/biz/nonnaskitchen" },
+    { label: "Instagram", href: "https://instagram.com/peppinoskitchen" },
+    { label: "Facebook", href: "https://facebook.com/peppinoskitchen" },
+    { label: "Yelp", href: "https://yelp.com/biz/peppinoskitchen" },
   ],
   images: {
     hero: "/images/originals/storefront-view.jpg",
@@ -117,7 +117,7 @@ export const siteConfig: SiteConfig = {
     {
       name: "Maria Rodriguez",
       quote:
-        "Best Italian food outside of Italy! Nonna's lasagna tastes exactly like my grandmother used to make. This place feels like home.",
+        "Best Italian food outside of Italy! Peppino's lasagna tastes exactly like my dad used to make. This place feels like home.",
     },
     {
       name: "James Chen",
@@ -150,8 +150,8 @@ export const siteConfig: SiteConfig = {
   ],
   features: [
     {
-      title: "Family-Owned Since 1985",
-      desc: "Three generations of tradition and passion",
+      title: "Family-Owned Since 2005",
+      desc: "Two generations of tradition and passion",
     },
     {
       title: "Fresh Daily Ingredients",

@@ -13,17 +13,16 @@ export function About() {
           <h2 className="text-balance text-3xl font-bold tracking-tight sm:text-4xl">Our Story</h2>
           <div className="space-y-4 text-pretty text-muted-foreground">
             <p>
-              In 1985, Nonna Maria brought her family recipes from a small village in Tuscany to downtown. What started
+              In 2005, Peppino brought his family recipes from a small village in Tuscany to downtown. What started
               as a dream to share authentic Italian cuisine has grown into a beloved neighborhood staple.
             </p>
             <p>
-              Today, three generations later, we continue to honor Nonna's tradition of using only the freshest
-              ingredients, preparing everything from scratch, and treating every guest like family. Our pasta is made
-              daily, our sauces simmer for hours, and our love for Italian food shines through in every dish.
+              Today, a few generations later, we continue to use only the freshest ingredients, preparing everything from scratch,
+              and treating every guest like family. Our pasta is made daily, our sauces simmer for hours, and our love for Italian food shines through in every dish.
             </p>
             <p>
               Whether you're joining us for a quick lunch, a romantic dinner, or a family celebration, we promise to
-              serve you food made with the same care and passion that Nonna Maria brought to her kitchen 40 years ago.
+              serve you food made with the same care and passion that Peppino brought to his kitchen 20 years ago.
             </p>
           </div>
 
